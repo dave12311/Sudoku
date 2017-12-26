@@ -1,0 +1,2 @@
+﻿  Table.cpp
+d:\documents\programming\sudoku\sudoku\table.cpp(25): error C4716: 'Table::quick_solve': must return a value
